@@ -1,0 +1,3 @@
+[submodule "easyr-ui"]
+	path = easyr-ui
+	url = git@github.com:JonasTamosevicius/easyr-ui.git
