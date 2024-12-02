@@ -4,3 +4,6 @@
 [submodule "easyr-backend"]
 	path = easyr-backend
 	url = git@github.com:JonasTamosevicius/easyr-backend.git
+	[submodule "shared"]
+	path = shared
+	url = git@github.com:JonasTamosevicius/shared.git
