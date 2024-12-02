@@ -1,0 +1,12 @@
+{
+  "name": "easyr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve:backend": "cd easyr-backend && npm run serve",
+    "serve:frontend": " cd easyr-ui && npm run dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
